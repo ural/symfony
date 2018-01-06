@@ -39,6 +39,7 @@ class GenusController extends Controller {
       ['id' => 2, 'username' => 'AquaWeaver', 'avatarUri' => '/images/ryan.jpeg', 'note' => 'I counted 8 legs... as they wrapped around me', 'date' => 'Dec. 1, 2015'],
       ['id' => 3, 'username' => 'AquaPelham', 'avatarUri' => '/images/Dog-2018.png', 'note' => 'Inked!', 'date' => 'Aug. 20, 2015'],
       ['id' => 4, 'username' => 'Wass', 'avatarUri' => '/images/Dog-2018.png', 'note' => 'WASS IST DASS!', 'date' => 'Jan. 5, 2018'],
+      ['id' => 5, 'username' => 'AquaWeaver', 'avatarUri' => '/images/ryan.jpeg', 'note' => 'I counted 8 legs... as they wrapped around me', 'date' => 'Dec. 1, 2015'],
     ];
     $data = [
       'notes' => $notes
