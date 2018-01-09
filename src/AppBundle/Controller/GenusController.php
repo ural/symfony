@@ -32,13 +32,6 @@ class GenusController extends Controller {
       'name' => $genusName,
       'funFact' => $funFact
     ));
-
-/*    $templating = $this->container->get('templating');
-    $html = $templating->render('genus/show.html.twig', [
-      'name' => $genusName
-    ]);
-
-    return new Response($html);*/
   }
 
   /**
